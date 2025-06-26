@@ -1,0 +1,37 @@
+{
+  "name": "destiny",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "dependencies": {
+    "@discordjs/voice": "",
+    "@iamtraction/google-translate": "",
+    "axios": "",
+    "canvas": "",
+    "chartjs-node-canvas": "",
+    "cheerio": "",
+    "discord-image-generation": "",
+    "discord.js": "",
+    "dotenv": "",
+    "express": "",
+    "figlet": "",
+    "luxon": "",
+    "markov-generator": "",
+    "mathjs": "",
+    "moment": "",
+    "moment-timezone": "",
+    "openai": "",
+    "quick.db": "",
+    "quick.eco": "",
+    "readable-stream": "",
+    "srod-v2": "",
+    "superagent": ""
+  }
+}
+
